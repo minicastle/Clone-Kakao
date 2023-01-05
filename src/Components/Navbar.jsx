@@ -3,6 +3,7 @@ import styled from "@emotion/styled";
 import '../Fonts.css';
 import NewItem from './NewItem';
 import {BsSearch, BsGlobe, BsMoon} from 'react-icons/bs';
+import logo from '..//kakao.png';
 const Container = styled.div`
     background-color: white;
     display: flex;
@@ -99,7 +100,7 @@ function Navbar({menuContain,handleMenu}) {
     return (
         <Container>
             <Contents>
-                <Logo src='../images/kakao_ico.png' />
+                <Logo src={logo} />
                 <Menus>
                     <MenuItem onClick={()=>{handleMenu('kakao')}}>
                         카카오 
