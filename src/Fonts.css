@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'kakaobig';
+    src: url('../public/fonts/KakaoBig-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'kakaobig-bold';
+    src: url('../public/fonts/KakaoBig-Bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'kakaosmall-light';
+    src: url('../public/fonts/KakaoSmall-Light.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'kakaosmall';
+    src: url('../public/fonts/KakaoSmall-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'kakaosmall-bold';
+    src: url('../public/fonts/KakaoSmall_Bold.woff2') format('woff2');
+}
