@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Clone-Kakao/static/css/main.bff0d703.css",
-    "main.js": "/Clone-Kakao/static/js/main.93b7ac33.js",
+    "main.js": "/Clone-Kakao/static/js/main.f34ef184.js",
     "static/js/787.bf377cf2.chunk.js": "/Clone-Kakao/static/js/787.bf377cf2.chunk.js",
     "static/media/KakaoSmall-Light.woff2": "/Clone-Kakao/static/media/KakaoSmall-Light.ef99f33d2533a0f37ac8.woff2",
     "static/media/KakaoSmall-Regular.woff2": "/Clone-Kakao/static/media/KakaoSmall-Regular.5c6e9962c362cfefac64.woff2",
@@ -10,11 +10,11 @@
     "static/media/KakaoBig-Regular.woff2": "/Clone-Kakao/static/media/KakaoBig-Regular.4bf7d77edded33fb1d2e.woff2",
     "index.html": "/Clone-Kakao/index.html",
     "main.bff0d703.css.map": "/Clone-Kakao/static/css/main.bff0d703.css.map",
-    "main.93b7ac33.js.map": "/Clone-Kakao/static/js/main.93b7ac33.js.map",
+    "main.f34ef184.js.map": "/Clone-Kakao/static/js/main.f34ef184.js.map",
     "787.bf377cf2.chunk.js.map": "/Clone-Kakao/static/js/787.bf377cf2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bff0d703.css",
-    "static/js/main.93b7ac33.js"
+    "static/js/main.f34ef184.js"
   ]
 }
