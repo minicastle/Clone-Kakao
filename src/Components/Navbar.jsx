@@ -44,6 +44,7 @@ const Menus = styled.ul`
 const MenuItem = styled.li`
     padding: 0 28px;
     position: relative;
+    white-space: nowrap;
     :hover{
         color: #000000;
     }
@@ -65,6 +66,7 @@ const MenuContent = styled.li`
     color: #eeeeee;
     white-space: nowrap;
     padding: 15px 0;
+    white-space: nowrap;
     :hover{
         color: #ffffff;
     }
@@ -73,6 +75,7 @@ const Ifkakao = styled.div`
     background-color: #000000;
     color: white;
     padding: 10px 20px;
+    white-space: nowrap;
     border-radius: 30px;
     position: relative;
 `;
